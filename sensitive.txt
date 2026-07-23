@@ -1,1 +1,1 @@
-original sensitive content
+real-target.txt

@@ -1,0 +1,9 @@
+name: env-approval-race-test
+on:
+  workflow_dispatch: {}
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: production-race-test
+    steps:
+      - run: echo "DEPLOYED WITHOUT REAL APPROVAL, RACE WON"

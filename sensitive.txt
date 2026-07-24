@@ -1,1 +1,1 @@
-real-target.txt
+BINARY ATTR BYPASS TEST

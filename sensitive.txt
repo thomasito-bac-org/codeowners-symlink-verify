@@ -1,1 +1,1 @@
-real-target.txt
+DUAL RULESET PROTECTION TEST
